@@ -15,20 +15,19 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 url: https://fongmunhong.github.io  # Important!
-baseurl: /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+baseurl: ""  # Leave blank for user pages (NOT /al-folio)
+last_updated: false
+impressum_path:
+back_to_top: true
 
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 
 github_username: FongMunHong
-twitter_username: @mhfong1947
+twitter_username: mhfong1947
 linkedin_username: mun-hong-fong-189a311a3
 scholar_userid: 3XrxD-kAAAAJ
-
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
