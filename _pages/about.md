@@ -14,8 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey there, I am currently a first year PhD student at [Duke University](https://duke.edu/), advised by [Rohit Singh](https://singhlab.net/) and working with [Alex Tong](https://www.alextong.net/). I am deeply interested in therapeutic design, especially in biomolecular modeling, e.g, protein design and molecular discovery.
-Previously, I did dev and research at MIT, at the [Coley Group](https://coley.mit.edu/), working on AI for synthesis planning. I completed my BS in Computer Science at Purdue University. 
+Hi, I am Mun Hong (both are my first name), currently a first year PhD student at [Duke University](https://duke.edu/), advised by [Rohit Singh](https://singhlab.net/) and working with [Alex Tong](https://www.alextong.net/). I am deeply interested in therapeutic design, especially in biomolecular modeling, e.g, protein design and molecular discovery. Previously, I did dev and research at MIT, in the [Coley Group](https://coley.mit.edu/), working on AI for synthesis planning. I completed my BS in Computer Science at Purdue University. 
 
 As a proud Malaysian, I am happy to connect with anyone who is actively working in the field of sciences, and I would like to hear more about your stories. Feel free to connect! 
 
