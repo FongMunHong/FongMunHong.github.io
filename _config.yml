@@ -52,6 +52,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
+enable_navbar_social: true  # Add this line to show social icons under your picture
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
@@ -268,8 +269,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Fong]
+  first_name: [Mun Hong, M. H., M. H. F.]
 
   style: apa
   locale: en
