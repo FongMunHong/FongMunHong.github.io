@@ -40,8 +40,9 @@
         <span class="icon-bar bottom-bar"></span>
       </button>
 
-      <div class="collapse navbar-collapse text-right" id="navbarNav">
-          <ul class="navbar-nav flex-nowrap">
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <!-- Left-aligned navigation items -->
+        <ul class="navbar-nav mr-auto flex-nowrap">
           {% for page in site.pages %}
             {% if page.permalink == '/' %} {% assign about_title = page.title %} {% endif %}
           {% endfor %}
@@ -117,6 +118,10 @@
               {% endif %}
             {% endif %}
           {% endfor %}
+        </ul>
+
+        <!-- Right-aligned items (search and theme toggle) -->
+        <ul class="navbar-nav ml-auto flex-nowrap">
           {% if site.search_enabled %}
             <!-- Search -->
             <li class="nav-item">
