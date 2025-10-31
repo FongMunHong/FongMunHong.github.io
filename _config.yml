@@ -52,7 +52,6 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-enable_navbar_social: true  # Add this line to show social icons under your picture
 search_enabled: true
 socials_in_search: true
 posts_in_search: true
