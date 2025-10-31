@@ -294,3 +294,73 @@ enable_publication_badges:
 
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords: []
+
+# -----------------------------------------------------------------------------
+# Third-party libraries
+# -----------------------------------------------------------------------------
+
+third_party_libraries:
+  download: true
+  bootstrap-table:
+    integrity:
+      css: "sha256-uRX+PiRTR4ysKFRCykT8HLuRCub26LgXJZym3Yeom1c="
+      js: "sha256-4rppopQE++yq0bFo/6C7sZFVFoDFtKoGP+x5lGnFJTY="
+  chartjs:
+    integrity:
+      js: "sha256-QFBN2PF/Mm8V1rFWlmkKc/KQez5h2tRHnxMHLP1oCKw="
+  d3:
+    integrity:
+      js: "sha256-1rA678n2xEx7x4cTZ5x4wpUCj6kUMZEZ5cxLSVSFWxw="
+  diff2html:
+    integrity:
+      css: "sha256-IMBK4VNZp0ivwefSn51bswdsrhk0HoMTLc2GqFHFBXg="
+      js: "sha256-eU2TVHX633T1o/bTQp6iIJByYJEtZThhF9bKz/DcbbY="
+  echarts:
+    integrity:
+      js:
+        library: "sha256-QvgynZibb2U53SsVu98oAd2S+toXJNcZ33bCDBI55aA="
+        dark_theme: "sha256-sm6Ui9w41++ZCWmIWDLC18a6ki72FQpWDiYTDxEPXwU="
+  glightbox:
+    integrity:
+      css: "sha256-YI42V9vENA9Fov1hf0gAHKR0wYgRk8fHOQxyN/y3rRM="
+      js: "sha256-j61pswYPcMaH4yQ1A1qGzaLi3nV9u6d+f37G4I+4ewk="
+  highlightjs:
+    integrity:
+      css: "sha256-Oppd74ucMR5a5Dq96FxjEzGF7tTw2fZ/6ksAqDCM8GY="
+  imagesloaded:
+    integrity:
+      js: "sha256-htrLFfZJ6v5udOG+3kNLINIKh2gvoKqwEhHYfTTMICc="
+  img-comparison-slider:
+    integrity:
+      css: "sha256-IKwmHN9WUCsm1AbZvqYG+Vx/UgGEUIHjMVqIxfgJrPk="
+      js: "sha256-eo7lsLHzZ48RaO8L5Z4xNfcLtTpK20vNh8fgbpfZnCA="
+  jquery:
+    integrity:
+      js: "sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo="
+  leaflet:
+    integrity:
+      css: "sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      js: "sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+  mathjax:
+    integrity:
+      js: "sha256-1mXPZNb91FiF33K/GNyYvnbDnTsc/PMFilyz6PmotKI="
+  masonry:
+    integrity:
+      js: "sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI="
+  mermaid:
+    integrity:
+      js: "sha256-TtLOdUA8mstPoO6sGvHIGx2ceXrrX4KgIItO06XOn8A="
+  swiper:
+    integrity:
+      css: "sha256-yUoNxsvX+Vo8Trj3lZ/Y5ZBf8HlBFsB6Xwm7rH75/9E="
+      js: "sha256-BPrwikijIybg9OQC5SYFFqhBjERYOn97tCureFgYH1E="
+  vega:
+    integrity:
+      js:
+        vega: "sha256-Yot/cfgMMMpFwkp/5azR20Tfkt24PFqQ6IQS+80HIZs="
+        vega-lite: "sha256-TvBvIS5jUN4BSy009usRjNzjr9webxt5wHq1+PZ2om0="
+        vega-embed: "sha256-FPCJ9JYCC9AZSpvC/t/wHBX7ybueZhIqOMjpWqfl3DU="
+  videojs:
+    integrity:
+      css: "sha256-ppNRswfGbwyf+Y1+xrGdJvfJeiRCsNGrzpR+qI6+s0Y="
+      js: "sha256-Pb4QGOIF0FrUe5UAmfOJ10+BpQoLfG28a4VTA90I+So="
