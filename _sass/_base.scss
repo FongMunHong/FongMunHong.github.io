@@ -1423,3 +1423,17 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// Visitor Map Styling
+.visitor-map {
+  text-align: center;
+  margin: 1rem 0;
+  padding: 0.5rem;
+  
+  img, canvas, #mapmyvisitors {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+}
